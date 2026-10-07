@@ -1,0 +1,412 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "MongoDB: The Definitive Guide",
+      "author": "Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",
+      "isbn": "978-1491954461",
+      "category": "MongoDB",
+      "price": 89.99,
+      "discountPrice": null,
+      "description": "Ghidul definitiv pentru MongoDB – de la conceptele de bază la arhitecturi avansate. Ideal pentru dezvoltatorii care vor să stăpânească această bază de date NoSQL.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781491954461-L.jpg",
+      "stock": 25,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.5,
+      "reviewCount": 128,
+      "tags": [
+        "mongodb",
+        "nosql",
+        "database",
+        "backend"
+      ],
+      "specifications": {
+        "pages": 512,
+        "language": "English",
+        "publisher": "O'Reilly Media",
+        "year": 2019,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-01T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Express in Action",
+      "author": "Evan M. Hahn",
+      "isbn": "978-1617292422",
+      "category": "Express",
+      "price": 75.5,
+      "discountPrice": 65.99,
+      "description": "Construiește aplicații web rapide și scalabile cu Express.js. Cele mai bune practici pentru dezvoltarea API-urilor și a aplicațiilor web moderne.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781617292422-L.jpg",
+      "stock": 18,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.3,
+      "reviewCount": 89,
+      "tags": [
+        "express",
+        "nodejs",
+        "web-framework",
+        "api"
+      ],
+      "specifications": {
+        "pages": 256,
+        "language": "English",
+        "publisher": "Manning Publications",
+        "year": 2016,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-02T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "React: Up & Running",
+      "author": "Stoyan Stefanov",
+      "isbn": "978-1491931820",
+      "category": "React",
+      "price": 82,
+      "discountPrice": null,
+      "description": "Începe rapid cu React: de la conceptele fundamentale la aplicații complexe. Potrivită pentru dezvoltatorii care vor să învețe React eficient.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781491931820-L.jpg",
+      "stock": 32,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.7,
+      "reviewCount": 156,
+      "tags": [
+        "react",
+        "frontend",
+        "javascript",
+        "ui"
+      ],
+      "specifications": {
+        "pages": 222,
+        "language": "English",
+        "publisher": "O'Reilly Media",
+        "year": 2016,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-03T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Node.js Design Patterns",
+      "author": "Mario Casciaro",
+      "isbn": "978-1783287314",
+      "category": "Node.js",
+      "price": 95.99,
+      "discountPrice": 79.99,
+      "description": "Design patterns în Node.js pentru aplicații de tip enterprise: arhitecturi scalabile și bune practici pentru dezvoltarea backend.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781783287314-L.jpg",
+      "stock": 15,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.8,
+      "reviewCount": 203,
+      "tags": [
+        "nodejs",
+        "design-patterns",
+        "backend",
+        "architecture"
+      ],
+      "specifications": {
+        "pages": 454,
+        "language": "English",
+        "publisher": "Packt Publishing",
+        "year": 2014,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-04T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Learning React",
+      "author": "Alex Banks, Eve Porcello",
+      "isbn": "978-1491954621",
+      "category": "React",
+      "price": 77.99,
+      "discountPrice": null,
+      "description": "Construiește interfețe moderne cu React și JavaScript: de la JSX la componente și gestionarea stării.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781491954621-L.jpg",
+      "stock": 28,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.4,
+      "reviewCount": 142,
+      "tags": [
+        "react",
+        "javascript",
+        "components"
+      ],
+      "specifications": {
+        "pages": 350,
+        "language": "English",
+        "publisher": "O'Reilly Media",
+        "year": 2017,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-05T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "MongoDB Applied Design Patterns",
+      "author": "Rick Copeland",
+      "isbn": "978-1449340049",
+      "category": "MongoDB",
+      "price": 68.5,
+      "discountPrice": 59.99,
+      "description": "Pattern-uri practice în MongoDB pentru aplicații reale: optimizarea performanței și a designului bazei de date în proiecte complexe.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781449340049-L.jpg",
+      "stock": 22,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.2,
+      "reviewCount": 76,
+      "tags": [
+        "mongodb",
+        "patterns",
+        "optimization",
+        "database"
+      ],
+      "specifications": {
+        "pages": 190,
+        "language": "English",
+        "publisher": "O'Reilly Media",
+        "year": 2013,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-06T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Node.js 8 the Right Way",
+      "author": "Jim Wilson",
+      "isbn": "978-1680501957",
+      "category": "Node.js",
+      "price": 85,
+      "discountPrice": null,
+      "description": "Node.js cu bune practici și tehnici moderne: de la async/await la microservicii.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781680501957-L.jpg",
+      "stock": 19,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.6,
+      "reviewCount": 98,
+      "tags": [
+        "nodejs",
+        "async",
+        "microservices",
+        "backend"
+      ],
+      "specifications": {
+        "pages": 268,
+        "language": "English",
+        "publisher": "Pragmatic Bookshelf",
+        "year": 2018,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-07T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Full-Stack React Projects",
+      "author": "Shama Hoque",
+      "isbn": "978-1788835534",
+      "category": "React",
+      "price": 92.99,
+      "discountPrice": 82.99,
+      "description": "Aplicații full-stack complete cu React, Node.js și MongoDB. Proiecte practice pentru dezvoltatori.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781788835534-L.jpg",
+      "stock": 14,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.5,
+      "reviewCount": 167,
+      "tags": [
+        "react",
+        "fullstack",
+        "mongodb",
+        "projects"
+      ],
+      "specifications": {
+        "pages": 470,
+        "language": "English",
+        "publisher": "Packt Publishing",
+        "year": 2018,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-08T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Pro Express.js",
+      "author": "Azat Mardan",
+      "isbn": "978-1484200384",
+      "category": "Express",
+      "price": 71.99,
+      "discountPrice": null,
+      "description": "Ghid practic pentru Express.js – de la configurare la publicare. API-uri robuste și aplicații web performante.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781484200384-L.jpg",
+      "stock": 26,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.1,
+      "reviewCount": 85,
+      "tags": [
+        "express",
+        "api",
+        "web-development",
+        "guide"
+      ],
+      "specifications": {
+        "pages": 284,
+        "language": "English",
+        "publisher": "Apress",
+        "year": 2014,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-09T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "MERN Quick Start Guide",
+      "author": "Eddy Wilson Iriarte Koroliova",
+      "isbn": "978-1787281080",
+      "category": "MERN Stack",
+      "price": 88.5,
+      "discountPrice": 79.99,
+      "description": "Start rapid cu stiva MERN: MongoDB, Express, React și Node.js într-un ghid practic pentru începători și intermediari.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781787281080-L.jpg",
+      "stock": 21,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.3,
+      "reviewCount": 134,
+      "tags": [
+        "mern",
+        "fullstack",
+        "quickstart",
+        "tutorial"
+      ],
+      "specifications": {
+        "pages": 302,
+        "language": "English",
+        "publisher": "Packt Publishing",
+        "year": 2018,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-10T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Pro MERN Stack",
+      "author": "Vasan Subramanian",
+      "isbn": "978-1484243916",
+      "category": "MERN Stack",
+      "price": 105.99,
+      "discountPrice": null,
+      "description": "Dezvoltare profesională cu stiva MERN: arhitecturi, bune practici și publicarea aplicațiilor pentru dezvoltatori avansați.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781484243916-L.jpg",
+      "stock": 12,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.7,
+      "reviewCount": 189,
+      "tags": [
+        "mern",
+        "professional",
+        "enterprise",
+        "advanced"
+      ],
+      "specifications": {
+        "pages": 542,
+        "language": "English",
+        "publisher": "Apress",
+        "year": 2019,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-11T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "MongoDB in Action",
+      "author": "Kyle Banker",
+      "isbn": "978-1617291609",
+      "category": "MongoDB",
+      "price": 79.99,
+      "discountPrice": 69.99,
+      "description": "MongoDB practic pentru dezvoltatori: de la modelarea datelor la sharding – aspectele esențiale pentru aplicații de producție.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781617291609-L.jpg",
+      "stock": 17,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.4,
+      "reviewCount": 112,
+      "tags": [
+        "mongodb",
+        "production",
+        "sharding",
+        "modeling"
+      ],
+      "specifications": {
+        "pages": 395,
+        "language": "English",
+        "publisher": "Manning Publications",
+        "year": 2016,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-12T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Learning React: Modern Patterns for Developing React Apps",
+      "author": "Alex Banks, Eve Porcello",
+      "isbn": "978-1492051725",
+      "category": "React",
+      "price": 99,
+      "discountPrice": null,
+      "description": "Ediția a doua: React modern cu hooks, Suspense și cele mai noi tehnici din JavaScript.",
+      "imageUrl": "https://covers.openlibrary.org/b/isbn/9781492051725-L.jpg",
+      "stock": 10,
+      "isActive": true,
+      "featured": false,
+      "rating": 4.6,
+      "reviewCount": 64,
+      "tags": [
+        "react",
+        "hooks",
+        "javascript"
+      ],
+      "specifications": {
+        "pages": 310,
+        "language": "English",
+        "publisher": "O'Reilly Media",
+        "year": 2020,
+        "format": "Paperback"
+      },
+      "createdAt": "2025-09-13T08:00:00.000Z",
+      "updatedAt": "2025-09-28T10:00:00.000Z"
+    }
+  ],
+  "metadata": {
+    "totalProducts": 13,
+    "lastUpdated": "2025-09-28T10:00:00.000Z",
+    "version": "2.1.0",
+    "currency": "RON",
+    "shippingCost": 19.99
+  }
+}
